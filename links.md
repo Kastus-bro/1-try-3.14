@@ -1,14 +1,16 @@
 [<к содержанию](./readme.md)
 
-# Часто задаваемы вопросы
+# Полезные ссылки
 
-1. Что делать если при вводе команды git push -u origin main выдает ошибку 
-error: failed to push some refs to 'https://github.com/'
+https://github.com/
 
-Ответ: попробуйте ввести команду
-```bush
- git push -u origin master
-```
+https://github.com/
+
+https://bitbucket.org/
+
+https://about.gitlab.com/
+
+https://skillfactory.ru/
 
 
 [На главную](./readme.md)

@@ -27,6 +27,8 @@ LICENSE: [MIT](./license.md)
 
 #### 10. [FAQ](./faq.md)
 
+#### 11. [Полезные ссылки](./links.md)
+
 
 ---
 
