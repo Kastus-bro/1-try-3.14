@@ -1,0 +1,10 @@
+## git config
+
+**git config** - команда настройки параметров для **GIT** на вашем компьютере.
+
+Первое что необходимо сделать сразу после установки **GIT** - указать ваше *Имя* и *email*, при помощи следующих команд:
+
+```bash=
+git config --global user.name "Your name"
+git config --global user.email "your_email@"somewhere.com
+```
