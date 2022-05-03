@@ -17,9 +17,9 @@ LICENSE: [MIT](./license.md)
 
 #### 5. [Файл .gitignore](./aboutgitignore.md)
 
-#### 6. [GIT. Конфликты](./conflikt.md)
+#### 6. [GIT. Ветвления и Методологии ветвления](./branch.md)
 
-#### 7. [GIT. Методологии ветвления](./branch.md)
+#### 7. [GIT. Конфликты](./conflikt.md)
 
 #### 8. [GIT. Культура коммитов](./cultere%20commit.md)
 
