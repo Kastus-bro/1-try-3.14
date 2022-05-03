@@ -11,7 +11,7 @@ LICENSE: [MIT](./license.md)
 
 #### 2. [Основные операции](./basic%20operations.md "Кликни")
 
-#### 3. Синтаксис
+#### 3. [Markdown. Синтаксис md](./markdown.md "Смелее")
 
 
 
