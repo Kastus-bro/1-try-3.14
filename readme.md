@@ -13,19 +13,19 @@ LICENSE: [MIT](./license.md)
 
 #### 3. [Markdown. Синтаксис md](./markdown.md "Смелее")
 
-#### 4. GitHub
+#### 4. [GitHub](./github.md)
 
-#### 5. Файл .gitignor
+#### 5. [Файл .gitignore](./aboutgitignore.md)
 
-#### 6. GIT. Конфликты
+#### 6. [GIT. Конфликты](./conflikt.md)
 
-#### 7. GIT. Методологии ветвления
+#### 7. [GIT. Методологии ветвления](./branch.md)
 
-#### 8. GIT. Культура коммитов
+#### 8. [GIT. Культура коммитов](./cultere%20commit.md)
 
-#### 9. GIT. Форк
+#### 9. [GIT. Форк](./fork.md)
 
-#### 10. FAQ
+#### 10. [FAQ](./faq.md)
 
 
 ---
